@@ -1,4 +1,6 @@
-# KernelAdiutor
+# KernelAdiutor (liked version). 
+
+[Download kerneladiutor-liked.apk](./kerneladiutor-liked.apk)
 
 [![Build Status](https://travis-ci.org/Grarak/KernelAdiutor.svg?branch=master)](https://travis-ci.org/Grarak/KernelAdiutor)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/kernel-adiutor/localized.png)](https://crowdin.com/project/kernel-adiutor)
