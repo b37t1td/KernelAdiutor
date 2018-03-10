@@ -1,5 +1,7 @@
 # KernelAdiutor (liked version). 
 
+You can download already liked `debug` package for installation via `adb`:
+
 [Download kerneladiutor-liked.apk](./kerneladiutor-liked.apk)
 
 [![Build Status](https://travis-ci.org/Grarak/KernelAdiutor.svg?branch=master)](https://travis-ci.org/Grarak/KernelAdiutor)
